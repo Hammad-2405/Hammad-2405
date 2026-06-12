@@ -4,9 +4,5 @@ I’m [**Hammad**](https://www.linkedin.com/in/muhammad-hammad-50a32627a?lipi=ur
 
 I love coding and engineering products that solve real problems - built to scale and stay available.
 
-Outside of code, you’ll find me watching anime and films, playing football, or reading. 
+Outside of code, you’ll find me watching films, playing football or reading. 
 
-#### Fun Facts:
-
-* I love coffee.
-* Monster is my favorite anime.
